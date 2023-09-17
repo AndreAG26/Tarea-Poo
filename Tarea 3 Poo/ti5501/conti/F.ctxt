@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=F
+comment1.params=
+comment1.target=F()
+comment2.params=
+comment2.target=double\ calcular()
+comment3.params=
+comment3.target=java.lang.String\ fM1()
+comment4.params=
+comment4.target=int\ fM2()
+comment5.params=p
+comment5.target=int\ fM2(double)
+numComments=6
