@@ -24,7 +24,7 @@ public class E
     return x;
   }
   
-  boolean eM4(){
+  protected boolean eM4(){
     boolean v=true;
     return v;
   }

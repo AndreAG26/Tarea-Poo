@@ -14,8 +14,8 @@ public class F
     {
     }
     
-    public static double calcular(E e){  
-        double resultado = e.eM1();  
+    public static double calcular(A a){  
+        double resultado = a.calcular();  
         return resultado;
     }
     
@@ -24,8 +24,8 @@ public class F
         return x;
     }
     
-    public int fM2(){
-        int x=0;
+    public int fM2(E e){
+        int x=e.eM3();
         return x;
     }
     

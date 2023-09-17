@@ -2,12 +2,12 @@
 comment0.target=F
 comment1.params=
 comment1.target=F()
-comment2.params=e
-comment2.target=double\ calcular(ti5501.contrix.E)
+comment2.params=a
+comment2.target=double\ calcular(ti5501.contrix.A)
 comment3.params=
 comment3.target=java.lang.String\ fM1()
-comment4.params=
-comment4.target=int\ fM2()
+comment4.params=e
+comment4.target=int\ fM2(ti5501.contrix.E)
 comment5.params=p
 comment5.target=int\ fM2(double)
 numComments=6

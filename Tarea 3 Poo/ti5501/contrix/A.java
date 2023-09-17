@@ -27,7 +27,7 @@ public class A
     
   }
   
-  private float aM4(){
+  float aM4(){
     float a=3.14f;
     return a;
   }
