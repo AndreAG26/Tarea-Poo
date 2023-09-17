@@ -6,7 +6,7 @@ public class F
 {
     public float f1;
     public double f2;
-    protected A f; 
+    private A a; 
     
 
 
