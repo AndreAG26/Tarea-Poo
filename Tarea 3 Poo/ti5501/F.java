@@ -1,3 +1,4 @@
+package ti5501;
 
 public class F
 {
@@ -9,9 +10,7 @@ public class F
     {
     }
     
-    public double calcular(){
-        
-    }
+
 
 
     
