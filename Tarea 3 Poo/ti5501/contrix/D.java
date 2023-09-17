@@ -5,6 +5,8 @@ public class D
   // instance variables - replace the example below with your own
   private String d1;
   private E e;
+  public A as;
+
 
   // Cosntructor
   public D()

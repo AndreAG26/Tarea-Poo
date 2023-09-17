@@ -14,7 +14,7 @@ public class E
     return x;
   }
   
-  private String eM2(){
+  String eM2(){
     String e="hola";
     return e;
   }
@@ -24,7 +24,7 @@ public class E
     return x;
   }
   
-  protected boolean eM4(){
+  boolean eM4(){
     boolean v=true;
     return v;
   }

@@ -1,28 +1,34 @@
 package ti5501.contrix;
-
+import ti5501.conti.F;
 
 public class A
 {
   // instance variables - replace the example below with your own
+  boolean a1;
   protected String a2;
+  protected F f;
+  
 
-  /**
-   * Constructor for objects of class A
-   */
+  // Constructor
   public A()
   {
     // initialise instance variables
     
   }
 
-  /**
-   * An example of a method - replace this comment with your own
-   * 
-   * @param  y   a sample parameter for a method
-   * @return     the sum of x and y 
-   */
-  public void sampleMethod(int y)
+  
+  public double calcular()
   {
+    double a=0.0;
+    return a;
+  }
+  
+  protected void aM3 (float o){
     
+  }
+  
+  private float aM4(){
+    float a=3.14f;
+    return a;
   }
 }
