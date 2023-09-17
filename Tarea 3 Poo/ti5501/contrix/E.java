@@ -1,35 +1,34 @@
 package ti5501.contrix;
 
-
-/**
- * Write a description of class E here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class E
 {
-  // instance variables - replace the example below with your own
-  private int x;
-
-  /**
-   * Constructor for objects of class E
-   */
+  private D d;  
+ 
   public E()
   {
-    // initialise instance variables
-    x = 0;
+    
+  }
+  
+  public double eM1(){
+    double x=0;
+    return x;
+  }
+  
+  private String eM2(){
+    String e="hola";
+    return e;
+  }
+  
+  public int eM3(){
+    int x=0;
+    return x;
+  }
+  
+  protected boolean eM4(){
+    boolean v=true;
+    return v;
   }
 
-  /**
-   * An example of a method - replace this comment with your own
-   * 
-   * @param  y   a sample parameter for a method
-   * @return     the sum of x and y 
-   */
-  public int sampleMethod(int y)
-  {
-    // put your code here
-    return x + y;
-  }
+
+  
 }

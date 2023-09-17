@@ -1,6 +1,6 @@
 package ti5501.conti;
-import ti5501.contix.A;
-import ti5501.contix.E;
+import ti5501.contrix.A;
+import ti5501.contrix.E;
 
 public class F
 {

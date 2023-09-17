@@ -2,8 +2,8 @@
 comment0.target=F
 comment1.params=
 comment1.target=F()
-comment2.params=
-comment2.target=double\ calcular()
+comment2.params=e
+comment2.target=double\ calcular(ti5501.contrix.E)
 comment3.params=
 comment3.target=java.lang.String\ fM1()
 comment4.params=
